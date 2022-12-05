@@ -1,16 +1,12 @@
 # myweatherapp
 
-A new Flutter project.
+###Weather App 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ibb.co/Qn6SHfQ"><img src="https://i.ibb.co/S0KYmPy/Screenshot-2022-12-05-21-15-42-329-com-example-myweatherapp.jpg" alt="Screenshot-2022-12-05-21-15-42-329-com-example-myweatherapp" border="0" /></a>
+
+<a href="https://ibb.co/HK7W8cT"><img src="https://i.ibb.co/2FqD4z3/Screenshot-2022-12-05-21-16-02-096-com-example-myweatherapp.jpg" alt="Screenshot-2022-12-05-21-16-02-096-com-example-myweatherapp" border="0" /></a>
